@@ -8,7 +8,7 @@ In this project, i want to classifying the image between image that showing a ma
 ## Code and Resourced Used
 
  - Python Version: 3.7
- - Packages: pandas, numpy, sklearn, nltk
+ - Packages: pandas, numpy, sklearn, torchvision, jcopml
  - Dataset: https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset
  - Further Information about jcopml : https://github.com/WiraDKP/supervised_learning
 
