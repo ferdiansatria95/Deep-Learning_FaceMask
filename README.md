@@ -13,7 +13,7 @@ In this project, i want to classifying the image between image that showing a ma
  - Further Information about jcopml : https://github.com/WiraDKP/supervised_learning
  
 ## Result
-[Face Mask Identification](image.jpg)
+[Face Mask Identification](FaceMaskjpg)
 
 ## Run
  
