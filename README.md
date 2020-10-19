@@ -11,6 +11,9 @@ In this project, i want to classifying the image between image that showing a ma
  - Packages: pandas, numpy, sklearn, torchvision, jcopml
  - Dataset: https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset
  - Further Information about jcopml : https://github.com/WiraDKP/supervised_learning
+ 
+## Result
+![Face Mask Identification](image.jpg)
 
 ## Run
  
